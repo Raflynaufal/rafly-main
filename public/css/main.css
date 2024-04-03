@@ -9,7 +9,7 @@ h1 {
 }
 .grid-item {
   padding: 150px;
-  position: absolute;
+  position: relative;
   width: fit-content;
   height: fit-content;
   /* border: 1px solid rgba(0, 0, 0, 0.8); */
