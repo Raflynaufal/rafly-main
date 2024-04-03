@@ -9,9 +9,9 @@ h1 {
 }
 .grid-item {
   padding: 150px;
-  position: relative;
-  width: fit-content;
-  height: fit-content;
+  position: absolute;
+  bottom: 200px;
+  right: 100px;
   /* border: 1px solid rgba(0, 0, 0, 0.8); */
 }
 .grid-item p {
